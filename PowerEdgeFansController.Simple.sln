@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerEdgeFansController", "PowerEdgeFansController\PowerEdgeFansController.csproj", "{53183106-A6BB-438F-946D-7EE5F053C193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53183106-A6BB-438F-946D-7EE5F053C193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53183106-A6BB-438F-946D-7EE5F053C193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53183106-A6BB-438F-946D-7EE5F053C193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53183106-A6BB-438F-946D-7EE5F053C193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE11ABD0-328A-4AF3-9019-089CA2CC0E53}
+	EndGlobalSection
+EndGlobal
